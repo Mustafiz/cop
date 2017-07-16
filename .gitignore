@@ -1,0 +1,7 @@
+/node_modules
+/.idea
+/.env
+/composer.lock
+/package-lock.json
+/public/assets/vendors/
+/resources/assets/vendors/
